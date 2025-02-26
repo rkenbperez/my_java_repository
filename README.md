@@ -1,1 +1,2 @@
-# my_java_repository
+# Computer Programming 2
+Java Projects
